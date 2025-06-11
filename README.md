@@ -1,4 +1,4 @@
-#Curso de _Git_ & _GitHub
+# Curso de _Git_ & _GitHub
 
 Hola soy tu amigo y docente digital Jesús Munayco, Bienvenidos a mi curso.
 
