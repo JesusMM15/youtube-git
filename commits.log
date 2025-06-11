@@ -1,0 +1,136 @@
+commit 330380a95c9bf306db529225ab9dd701d2105c26
+Merge: 56ecb75 96a4765
+Author: Jesus Munayco <jemunayco@gmail.com>
+Date:   Tue Jun 10 17:38:57 2025 -0500
+
+    Merge branch 'main' of https://github.com/JesusMM15/youtube-git
+
+commit 56ecb75e05608dbf0b1167e502ee5a5bbbf45226
+Merge: 447daeb 5eac2d7
+Author: Jesus Munayco <jemunayco@gmail.com>
+Date:   Tue Jun 10 17:31:25 2025 -0500
+
+    Agregando 2 parrafos
+
+commit 96a4765af6055806e367826e8a20b7a135579a81
+Merge: 447daeb 5eac2d7
+Author: Jesus Munayco <jemunayco@gmail.com>
+Date:   Tue Jun 10 17:31:25 2025 -0500
+
+    Resolviendo conflicto en  estaciones del año con fechas de inicio
+
+commit 447daeb8c2a8f81e0d06b1c932e1aff7aa9b09dd
+Author: Jesus Munayco <jemunayco@gmail.com>
+Date:   Tue Jun 10 17:20:00 2025 -0500
+
+    Agregando estaciones del apo con fecha
+
+commit 5eac2d768e57baa7c59c3d26de9c5c01483f3b5a
+Author: Jesus Munayco <jemunayco@gmail.com>
+Date:   Tue Jun 10 17:20:00 2025 -0500
+
+    Agregando estaciones del año
+
+commit e6038d720a36d07849370a73971d580c02625a6e
+Merge: 1f2406f 337d935
+Author: Jesus Munayco <jemunayco@gmail.com>
+Date:   Tue Jun 10 16:47:56 2025 -0500
+
+    resolviendo conflicto merge main/html en el documento index.html
+
+commit 337d93509f04ecf37a0001f10b4a75658282c762
+Author: Jesus Munayco <jemunayco@gmail.com>
+Date:   Tue Jun 10 16:41:12 2025 -0500
+
+    Agregando index.js al Index.html
+
+commit 1f2406f84da74eed5392033f58b0934f6e273c25
+Author: Jesus Munayco <jemunayco@gmail.com>
+Date:   Tue Jun 10 16:39:05 2025 -0500
+
+    Agregando style.css al index.html
+
+commit 06642dad3ebedede653afc616ff8aded96a6b0b9
+Merge: f8dbada 77a529d
+Author: Jesus Munayco <jemunayco@gmail.com>
+Date:   Tue Jun 10 16:30:25 2025 -0500
+
+    Merge branch 'js'
+
+commit 77a529dad0c2ebfe3a49abc5f09a249061ab074e
+Author: Jesus Munayco <jemunayco@gmail.com>
+Date:   Tue Jun 10 16:26:28 2025 -0500
+
+    Creando index.js
+
+commit f8dbadaeb64f3553236c8448eaebe5ee39a58018
+Author: Jesus Munayco <jemunayco@gmail.com>
+Date:   Tue Jun 10 16:22:40 2025 -0500
+
+    Creando style.css
+
+commit 4d0a152fc1e3f0a7df7fb3fb8fdc298027dc5505
+Author: Jesus Munayco <jemunayco@gmail.com>
+Date:   Tue Jun 10 16:18:36 2025 -0500
+
+    Creando index.html
+
+commit 06d946e34d10f0d3e4c2fb81ae4b3000fc781d7e
+Author: Jesus Munayco <jemunayco@gmail.com>
+Date:   Tue Jun 10 16:01:19 2025 -0500
+
+    Actualizando ejecutables
+
+commit fbf913867e42efe94d6e0727eb1fd5d37e45c3a9
+Author: Jesus Munayco <jemunayco@gmail.com>
+Date:   Tue Jun 10 13:06:54 2025 -0500
+
+    Ignorando archivos .exe
+
+commit 2de263fb6a74c70c8bfe3340b23e63b8beb6c800
+Author: Jesus Munayco <jemunayco@gmail.com>
+Date:   Tue Jun 10 13:04:54 2025 -0500
+
+    Ignorando .txt
+
+commit 091216299709a815803f90f3049599d05ec4a8df
+Author: Jesus Munayco <jemunayco@gmail.com>
+Date:   Tue Jun 10 13:02:03 2025 -0500
+
+    Ignorando archivos .exe
+
+commit 7c77e7d162e4c515e7f1ad390d8d03e06c1975af
+Author: Jesus Munayco <jemunayco@gmail.com>
+Date:   Tue Jun 10 12:59:49 2025 -0500
+
+    restaurando archivos
+
+commit b32a021891307601421213dca83afde8d0b2979d
+Author: Jesus Munayco <jemunayco@gmail.com>
+Date:   Thu Jun 5 17:48:43 2025 -0500
+
+    Ignorando archivos .exe
+
+commit 1ec92ec647aefa37e2ddd9954725e51f8bf5ee76
+Author: Jesus Munayco <jemunayco@gmail.com>
+Date:   Wed Jun 4 17:50:32 2025 -0500
+
+    Creando licencia del repositorio
+
+commit 318ecb41e1329d4327207516967a4636319e3ff0
+Author: Jesus Munayco <jemunayco@gmail.com>
+Date:   Wed Jun 4 17:17:31 2025 -0500
+
+    agregando mas contenido al README
+
+commit 25b1e860cf0b8c8c2b42b917dc0a6dbe14de7f6e
+Author: Jesus Munayco <jemunayco@gmail.com>
+Date:   Wed Jun 4 17:08:30 2025 -0500
+
+    Agregando contenido inicial al README
+
+commit 0207d6e2a2a0a31e5dd721ad4527234c70102d2c
+Author: Jesus Munayco <jemunayco@gmail.com>
+Date:   Wed Jun 4 17:02:17 2025 -0500
+
+    Primer commit

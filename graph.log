@@ -1,0 +1,34 @@
+*   330380a Merge branch 'main' of https://github.com/JesusMM15/youtube-git
+|\  
+| *   96a4765 Resolviendo conflicto en  estaciones del año con fechas de inicio
+| |\  
+* | \   56ecb75 Agregando 2 parrafos
+|\ \ \  
+| |/ /  
+|/| /   
+| |/    
+| * 5eac2d7 Agregando estaciones del año
+* | 447daeb Agregando estaciones del apo con fecha
+|/  
+*   e6038d7 resolviendo conflicto merge main/html en el documento index.html
+|\  
+| * 337d935 Agregando index.js al Index.html
+* | 1f2406f Agregando style.css al index.html
+* |   06642da Merge branch 'js'
+|\ \  
+| * | 77a529d Creando index.js
+* | | f8dbada Creando style.css
+| |/  
+|/|   
+* | 4d0a152 Creando index.html
+|/  
+* 06d946e Actualizando ejecutables
+* fbf9138 Ignorando archivos .exe
+* 2de263f Ignorando .txt
+* 0912162 Ignorando archivos .exe
+* 7c77e7d restaurando archivos
+* b32a021 Ignorando archivos .exe
+* 1ec92ec Creando licencia del repositorio
+* 318ecb4 agregando mas contenido al README
+* 25b1e86 Agregando contenido inicial al README
+* 0207d6e Primer commit
